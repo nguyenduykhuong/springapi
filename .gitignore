@@ -37,3 +37,12 @@ hs_err_pid*
 .metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark
 .metadata/.plugins/org.eclipse.ui.intro/introstate
 .metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml
+.metadata/.plugins/org.eclipse.m2e.core/nexus/5ed387dfa55b2c14a0cfd5be6721395a/_b.cfs
+.metadata/.plugins/org.eclipse.m2e.core/nexus/5ed387dfa55b2c14a0cfd5be6721395a/_c.cfs
+.metadata/.plugins/org.eclipse.m2e.core/nexus/5ed387dfa55b2c14a0cfd5be6721395a/segments_d
+/.metadata/
+ndk_spring_db/mvnw
+ndk_spring_db/mvnw.cmd
+ndk_spring_db/.mvn/wrapper/MavenWrapperDownloader.java
+ndk_spring_db/.mvn/wrapper/maven-wrapper.properties
+ndk_spring_db/.mvn/wrapper/maven-wrapper.jar
